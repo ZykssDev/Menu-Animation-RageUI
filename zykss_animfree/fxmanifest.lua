@@ -25,8 +25,3 @@ client_scripts {
 client_script {
     'cl_zykss.lua',
 }
-
-server_script {
-    'sv_zykss.lua',
-}
-
